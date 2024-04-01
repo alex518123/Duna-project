@@ -18,7 +18,7 @@ li {list-style: none; color: aliceblue; cursor: pointer;
     font-family: 'Kdam Thmor Pro' , sans-serif;}
 
 
-li:hover {color: orangered;}
+li:hover {color: darkorange;}
 
 #logo {width: 260px; height: auto;}
 
