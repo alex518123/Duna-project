@@ -87,8 +87,6 @@ span {color: #fff; font-family: 'Kdam Thmor Pro' , sans-serif;}
     
     nav {display: none; }
 
-    #logo {margin-left: 80px;}
-
     #banner {background-position: cover;}
 
     #trailer-container {width: 100%; height: 400px; display: flex; flex-direction: column;}
