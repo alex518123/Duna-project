@@ -56,7 +56,7 @@ transition: 1s; display: flex; flex-direction: column; justify-content: flex-end
 color: #fff; font-size: 17px; font-family: 'Kdam Thmor Pro' , sans-serif;}
 /* justify-content: flex end para o nome do ator ficar embaixo */
 
-.banner-1 {background-image: url('https://static.wikia.nocookie.net/dune/images/4/46/Paul_Atreides_2024.jpg/revision/latest?cb=20240313113944');}
+.banner-1 {background-image: url('https://leclaireur.fnac.com/wp-content/uploads/2023/06/dune-part-two-paul-hair-blowing-1920-0.jpg');}
 
 .banner-2 {background-image: url('https://ovicio.com.br/wp-content/uploads/2024/01/20240126-image-5-555x555.png');}
 
