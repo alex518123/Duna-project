@@ -76,5 +76,6 @@ span {color: #fff; font-family: 'Kdam Thmor Pro' , sans-serif;}
 
     .cards {grid-template-columns: 1fr; margin-top: 50px; margin-right: 20px; margin-left: 20px;}
 
+    html, body {overflow-x: hidden; overflow-y: auto;}
 
 }
